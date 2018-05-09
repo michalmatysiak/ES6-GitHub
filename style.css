@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box; 
+}
+body {
+  margin: 0 auto;
+  font-family: 'Roboto Condensed', sans-serif;
+ }
+#searchText {
+	margin-bottom: 30px;
+	line-height: 25px;
+	font-size: 24px;
+	letter-spacing: 1.5px;
+}
+#root {
+	background-color: #42b0f4;
+	color: #333;
+	padding-top: 30px;
+	text-align: center;
+}
+.userInfo {
+	position: absolute;
+}
+label {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+	margin: 20px;
+	text-transform: uppercase;
+}
+a {
+	position: relative;
+	bottom: 30px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 24px;
+	margin: 0 auto;
+}
+.list {
+	background-color: #586069;
+	text-align: left;
+	margin: 0;
+	padding-left: 100px;
+}
+img {
+	padding: 15px 15px 0;
+	text-align: left;
+}
